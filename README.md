@@ -14,7 +14,6 @@ Simple employee management system using asp.net mvc
 ![chrome_fL8dUlbwqi](https://user-images.githubusercontent.com/76606140/124740413-688a7880-df38-11eb-833e-201eef6322b0.png)
 
 <br/>
-<br/>
 <hr/>
 # Sql Data Base <br/>
 
