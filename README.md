@@ -24,3 +24,9 @@ Simple employee management system using asp.net mvc
 <ins> Sql Data Base Structure </ins> <br/>
 
 ![devenv_nTX2Q7dMqG](https://user-images.githubusercontent.com/76606140/124740400-66281e80-df38-11eb-8e9b-66e91f3ec7af.png)
+
+<br/>
+<hr/>
+*Data Access through a classlibrary [DataLibrary -> EmployeeClass -> DataAccess] <br/>
+
+![devenv_qXWijTNweF](https://user-images.githubusercontent.com/76606140/124740428-6aecd280-df38-11eb-87e3-d79211e55457.png)
